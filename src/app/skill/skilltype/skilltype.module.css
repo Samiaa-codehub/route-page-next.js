@@ -1,0 +1,16 @@
+.container{
+    background-color: darkkhaki;
+    height: 800px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+}
+.header{
+    height: 100px;
+    background-color:darksalmon;
+    text-align: center;
+    padding:10px;
+    margin:0px;
+    border-radius: 8px;
+    border:2px solid darkkhaki;
+    box-shadow: 5px 5px 5px 5px;
+}

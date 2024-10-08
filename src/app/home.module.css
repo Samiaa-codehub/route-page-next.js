@@ -1,0 +1,18 @@
+.containers{
+    background-color: cadetblue;
+    height: 800px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+.header{
+    background-color: darkgrey;
+    height: 100px;
+    padding: 10px;
+    margin: 0px;
+    border-radius:8px;
+    border:2px solid cadetblue;
+    box-shadow: 5px 5px 5px 5px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}

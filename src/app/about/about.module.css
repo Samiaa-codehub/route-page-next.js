@@ -1,0 +1,19 @@
+
+.container{
+    height: 800px;
+    background-color:coral;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    color: aliceblue;
+}
+.header{
+    background-color:rgb(238, 173, 173);
+    border-radius: 8px;
+    box-shadow: 10px 10px 10px rgb(226, 215, 215);
+    height: 100px;
+    padding: 15px;
+    text-align: center;
+    margin: 0;
+}
+
+

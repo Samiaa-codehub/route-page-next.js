@@ -1,0 +1,22 @@
+.container{
+    background-color:rgb(238, 94, 94);
+    height:800px ;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: antiquewhite;
+}
+.header{
+    background-color: rgb(250, 149, 136);
+    box-shadow: 10px 10px 10px 10px bisque;
+    border-radius: 8px;
+    border:2px solid gray;
+    height: 100px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    padding:10px;
+    margin:0px;
+
+    
+
+}

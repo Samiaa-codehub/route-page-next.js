@@ -1,0 +1,15 @@
+.container{
+    background-color:cornflowerblue;
+    font-size: xx-large;
+    height: 800px;
+}
+.header{
+    background-color: chocolate;
+    height: 100px;
+    border:2px solid cornflowerblue;
+    margin: 0px;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 5px 5px 5px 5px cornsilk;
+    text-align: center;
+}
