@@ -9,7 +9,7 @@ const ContactUs=()=>{
             <br></br>
             <li><Link href={"/about"}>Go To About Page</Link></li>
             <br></br>
-            <li><Link href={"/services"}>Go To Servcies Page</Link></li>
+            <li><Link href={"/servcies"}>Go To Servcies Page</Link></li>
             <br></br>
             <li><Link href={"/skill"}>Go To Skill Page</Link></li>
             </ul>

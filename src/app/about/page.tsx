@@ -10,7 +10,7 @@ const AboutPage=()=>{
                <br></br>
             <li><Link href={"./contact"}> Go To Contact Page</Link></li>
             <br></br>
-        <li><Link href={"./services"}>Go To Services Page</Link></li>
+        <li><Link href={"./servcies"}>Go To Servcies Page</Link></li>
           <br></br>
           <li><Link href={"/skill"}>Go To Skill Page</Link></li>
             </ul>
